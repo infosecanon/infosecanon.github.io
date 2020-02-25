@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: infosecanon's research journal
 description: open research journal exploring network intrusion detection
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title

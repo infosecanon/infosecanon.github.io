@@ -1,9 +1,2 @@
-# Exporing the NIDS-AML Dataset
-
-## USENIX Reviewer Comments
-
-## Evaluating Datasets from Ring, et al survey
-
-### Garcia
-
+This is a open research journal detailing my adventures exploring network intrusion detection
 

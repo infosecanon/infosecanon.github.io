@@ -20,6 +20,30 @@ Recap
 ## Dataset Comparisons and prior work
 - [x] We need to show a stronger comparison against prior work
 
+What are some other dataset papers and where were they published from?
+
+Title                  | First author | Conference                       | Year 
+-----------------------|--------------|----------------------------------|--------
+Intrusion Detection in 802.11 Networks: Empirical Evaluation of Threats and a Public Dataset | Kolias | IEEE Communication Surveys & tutorials 1st quarter | 2016
+UNSW-NB15: A Comprehensive Data set for Network Intrusion Detection Systems | Moustafa | Military Communications and Information Systems Conference (MilCIS) | 2015
+SSH Compromise Detection using NetFlow/IPFIX | Hofstede | ACM SIGCOMM | Computer Communication Review | 2014
+An empirical comparison of botnet detection methods | Garcia | Elsevier Computers & Security 45 | 2014
+UGR‘16: A new dataset for the evaluation of cyclostationarity-based network IDSs | Maciá-Fernández | Elsevier Computers & Security 45 | 2014
+Toward Generating a New Intrusion Detection Dataset and Intrusion Traffic Characterization | Sharafaldin | International Conference on Information Systems Security and Privacy | 2018
+Unified Host and Network Data Set | Turcotte | arxiv | 2017
+Toward a reliable anomaly-based intrusion detection in real-world environments | Viegas | Elsevier Computer Networks 127
+ | 	2017
+Detecting P2P botnets through network behavior analysis and machine learning | Saad | Ninth Annual International Conference on Privacy, Security and Trust | 2011
+
+Most of these are journals which have longer review/publish cycles. 
+
+Seen another way, a thorough survey is provided by Ring et al. 
+
+Table 2:
+>![Table 2 from Ring et al.](/images/table2.png)
+
+
+
 ### KDD99 Dataset - The Archetype
 The KDD99 dataset is considered the prototypical dataset with over a hundred citations. 
 

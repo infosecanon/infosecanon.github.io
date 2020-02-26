@@ -38,13 +38,15 @@ Most of these are journals which have longer review/publish cycles.
 
 Seen another way, a thorough survey is provided by Ring et al. They provide a table of different datasets that were evaluated for their survey.
 
-![Table2](https://github.com/infosecanon/infosecanon.github.io/tree/master/_posts/assets/table2.png){:class="img-responsive"}{height="300px" width="400px"}
+![Table2](/assets/table2.png)
 
 ### KDD99 Dataset - The Archetype
 The KDD99 dataset is considered the prototypical dataset with over a hundred citations. 
 
 Reference: [KDD99 Data Location](https://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html)
+
 Reference: [KDD99 Description](http://kdd.ics.uci.edu/databases/kddcup99/task.html)
+
 Reference: [Problems with the KDD99 Dataset](https://www.kdnuggets.com/news/2007/n18/4i.html)
 
 ### NSL-KDD Dataset - The Improvement
@@ -56,6 +58,7 @@ From *A Detailed Analysis of the KDD CUP 99 Data Set*, Tavallaee, et al.
 > * The number of records in the train and test sets are reasonable, which makes it affordable to run the experiments on the complete set without the need to randomly select a small portion. Consequently, evaluation results of different research works will be consistent and comparable.
 
 Reference: [NSL-KDD Data location](https://github.com/jmnwong/NSL-KDD-Dataset)
+
 Reference: [NSL-KDD Description](https://www.unb.ca/cic/datasets/nsl.html)
 
 ### CTU-13

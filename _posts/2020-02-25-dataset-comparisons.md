@@ -38,7 +38,7 @@ Most of these are journals which have longer review/publish cycles.
 
 Seen another way, a thorough survey is provided by Ring et al. They provide a table of different datasets that were evaluated for their survey.
 
-![Table2](https://github.com/infosecanon/infosecanon.github.io/tree/master/_posts/assets/table2.png)
+![Table2](https://github.com/infosecanon/infosecanon.github.io/tree/master/_posts/assets/table2.png){:class="img-responsive"}{height="300px" width="400px"}
 
 ### KDD99 Dataset - The Archetype
 The KDD99 dataset is considered the prototypical dataset with over a hundred citations. 

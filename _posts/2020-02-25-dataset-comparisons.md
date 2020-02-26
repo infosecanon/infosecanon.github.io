@@ -39,9 +39,6 @@ Most of these are journals which have longer review/publish cycles.
 
 Seen another way, a thorough survey is provided by Ring et al. 
 
-Table 2:
->![Table 2 from Ring et al.](/images/table2.png)
-
 
 
 ### KDD99 Dataset - The Archetype

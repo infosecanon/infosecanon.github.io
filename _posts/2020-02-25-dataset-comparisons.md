@@ -36,8 +36,9 @@ Detecting P2P botnets through network behavior analysis and machine learning | S
 
 Most of these are journals which have longer review/publish cycles. 
 
-Seen another way, a thorough survey is provided by Ring et al. 
+Seen another way, a thorough survey is provided by Ring et al. They provide a table of different datasets that were evaluated for their survey.
 
+![Table2](/assets/table2.png)
 
 
 ### KDD99 Dataset - The Archetype

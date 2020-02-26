@@ -4,10 +4,10 @@ title: "conferences and tls vulnerabilities"
 date: 2020-02-24
 ---
 
-## Initial Submission
+# Initial Submission
 We were provided the following USENIX comments:
 
-### Reviewer 1
+## Reviewer 1
 
 Strengths
 ----------
@@ -38,7 +38,7 @@ Requested changes
 1. Show how your dataset improves on prior work.
 1. Provide evidence that this dataset will be useful in practice.
 
-### Reviewer 2
+## Reviewer 2
 
 Strengths
 ---------
@@ -95,7 +95,7 @@ Tier  | Abrev | Name | CFP | Date | Location     | Site
 2 | ACSAC | Annual Computer Security Applications Conference | June 15, 2020 | December 7-11 2020 | Austin, TX | https://www.acsac.org
 2	| DSN	| The International Conference on Dependable Systems and Networks	| Dec 13 2019	| June 29 - July 2 2020	| Valencia, Spain	| https://dsn2020.webs.upv.es/		
 2	| ASIACCS	| ACM Symposium on Information, Computer and Communications Security | Dec 10 2019	| June 1-5, 2020	| Taipei, Taiwan	| https://asiaccs2020.cs.nthu.edu.tw/		
-2	| PETS | Privacy Enhancing Technologies Symposium	Issue 4: February 29, 2020 | July 14-18 2020	| Montreal, Canada	| https://petsymposium.org/cfp20.php		
+2	| PETS | Privacy Enhancing Technologies Symposium	Issue 4: | February 29, 2020 | July 14-18 2020	| Montreal, Canada	| https://petsymposium.org/cfp20.php		
 2	| EuroS&P	| IEEE European Symposium on Security and Privacy	| November 20, 2019	| June 16-18 2020	| Genova, Italy	| http://www.ieee-security.org/TC/EuroSP2020/		
 2	| CSF	| IEEE Computer Security Foundations Symposium | Feb 7 2020	| June 22-26 2020	| Boston, MA	| http://www.ieee-security.org/CSFWweb/		
 3	| SecureComm | Internation Conference on Security and Privacy in Communication Networks	| May 4 2020	| October 21-23	| Washington DC	| http://securecomm.org/

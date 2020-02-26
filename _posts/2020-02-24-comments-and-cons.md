@@ -103,6 +103,6 @@ Tier  | Abrev | Name | CFP | Date | Location     | Site
 3	| DIMVA	| GI SIG SIDAR Conference on Detection of Intrusions and Malware and Vulnerability Assessment	| Feb 19 2020	| June 24-26	| Lisbon, Portugal	| https://dimva2020.campus.ciencias.ulisboa.pt/dates.html		
 3	| ACNS	| International Conference on Applied Cryptography and Network Security	| Jan 22 2020	| June 22-25	| Rome, Italy	| https://sites.google.com/di.uniroma1.it/ACNS2020		
 3	| SOUPS	| Symposium On Usable Privacy and Security	| Feb 20 2020	| August 9-11 2020	| Boston, MA	| https://www.usenix.org/conference/soups2020		
-3	| ICICS	| International Conference on Information and Communications Security	| December 2020 (CFP not out yet)		
+3	| ICICS	| International Conference on Information and Communications Security	| | December 2020 (CFP not out yet)		
 
 The two most appropriate conference were identified as SecureComm (acceptance rate of 28%(30/108) according to Guofei) and ACSAC with due dates of May 4th and June 15th, respectively. 	

@@ -85,7 +85,7 @@ Summation
 - [ ] Justify the false positive / false negative argument 
 
 
-## Where to go next
+# Where to go next
 An initial search of conferences that could be both appropriate for the content and timely led to this table:
 
 Tier  | Abrev | Name | CFP | Date | Location     | Site
@@ -106,3 +106,18 @@ Tier  | Abrev | Name | CFP | Date | Location     | Site
 3	| ICICS	| International Conference on Information and Communications Security	| | December 2020 (CFP not out yet)		
 
 The two most appropriate conference were identified as SecureComm (acceptance rate of 28%(30/108) according to Guofei) and ACSAC with due dates of May 4th and June 15th, respectively. 	
+
+# Additional questions 
+From the WebEx discussing the dataset the following questions were also asked:
+1. What is the attack/benign ratio?
+This is mentioned in various other papers and should be mentioned in ours.
+1. Are all the samples contiguous? 
+No. Baselines are 24hr periods and attacks are slices in time that help with labeling.
+1. This detection and analysis uses fine-grained data. With enterprises that can only sparsely sample data - would you still be able to detect anomalies? 
+Not sure, not a lot of research into sparsely sampling vast amounts of data and then trying to maximize detection through ML.
+1. Have you tried the DEF CON network? 
+Stakeholder information is spread on the DC network, and I would have to manually label the dataset.
+1. "Robustness problem" wrt population distribution (recommended paper to read by Justin Gilmer)
+I need to read this paper.
+1. Wall of Sheep data? 
+Could be interesting to look at the traffic people feel free to use over DEF CON but would need to expand the set to include public wifi access points and see what normal people feel free to transfer over the wire unencrypted. Again, would need to label the dataset. Stakeholder data. fire and brimstone.

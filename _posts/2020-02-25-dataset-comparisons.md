@@ -50,7 +50,7 @@ Reference: [KDD99 Description](http://kdd.ics.uci.edu/databases/kddcup99/task.ht
 Reference: [Problems with the KDD99 Dataset](https://www.kdnuggets.com/news/2007/n18/4i.html)
 
 Taking a look at the KDD99 dataset:
-![KDD99](/assets/KDD99-Exploratory-Analysis.html)
+[KDD99](/assets/KDD99-Exploratory-Analysis.html)
 
 ### NSL-KDD Dataset - The Improvement
 From *A Detailed Analysis of the KDD CUP 99 Data Set*, Tavallaee, et al.
@@ -65,7 +65,7 @@ Reference: [NSL-KDD Data location](https://github.com/jmnwong/NSL-KDD-Dataset)
 Reference: [NSL-KDD Description](https://www.unb.ca/cic/datasets/nsl.html)
 
 Taking a look at the NSL-KDD dataset:
-![NSL-KDD](/assets/NSL-KDD-Exploratory-Analysis.html)
+[NSL-KDD](/assets/NSL-KDD-Exploratory-Analysis.html)
 
 ### CTU-13
 The CTU-13 dataset (Garcia et al) 

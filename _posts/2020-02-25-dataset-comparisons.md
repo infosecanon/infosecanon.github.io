@@ -92,5 +92,5 @@ Created by Sharafaldin, et al., this dataset is far more robust. Protocol variet
 9. Feature set
 10. Metadata
 
-They don't have human generated data, however, while we don't have SSH or FTP. We have SMTP and IPSec, they don't. Also... Nano cryptocurrency protocol? 
-<img src="/assets/cicids.png" width="1200">
+They don't have human generated data, however, while we don't have SSH or FTP. We have SMTP and IPSec, they don't. Also... Nano cryptocurrency protocol?
+<img src="/assets/cicids.png" width="1000">

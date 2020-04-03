@@ -56,8 +56,6 @@ It remains to be seen if the packets lost via chunking make a difference in trai
 
 Now we have three processed (tiny) CSVs to work with from each dataset - CTU13, NIDS-AML, and CICIDS2017 - each with the same number of features. We still need to label and reduce the feature space of the categorical variables.
 
-<img src="/assets/CICFlowMeter.png" width="700">
-
 <a href="/assets/P1_dvwa_101619.csv">NIDS-AML</a>
 <a href="/assets/friout_00095_20170707131431.csv">CICIDS2017</a>
 <a href="/assets/botnet-capture-20110810-neris.csv">CTU-13</a>

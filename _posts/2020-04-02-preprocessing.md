@@ -4,7 +4,6 @@ title: "Preprocessing"
 date: 2020-04-02
 ---
 
-# Preprocessing
 We need to preprocess the network traffic such that 1) it's normalized, 2) roughly the same size, 3) representative of the larger datasets.
 
 and hopefully 4) it's somewhat balanced (probably wishful thinking).
@@ -25,7 +24,8 @@ datasci@ubuntu:~/AML/CICFlowMeter/jnetpcap/linux/jnetpcap-1.4.r1425$ sudo apt in
 
 ## Installing with Maven
 ```
-root@ubuntu:~/AML/CICFlowMeter/jnetpcap/linux/jnetpcap-1.4.r1425# mvn install:install-file -Dfile=jnetpcap.jar -DgroupId=org.jnetpcap -DartifactId=jnetpcap -Dversion=1.4.1 -Dpackaging=jar
+root@ubuntu:~/AML/CICFlowMeter/jnetpcap/linux/jnetpcap-1.4.r1425# mvn install:install-file -Dfile=jnetpcap.jar
+-DgroupId=org.jnetpcap -DartifactId=jnetpcap -Dversion=1.4.1 -Dpackaging=jar
 ```
 
 ## Running with Gradle

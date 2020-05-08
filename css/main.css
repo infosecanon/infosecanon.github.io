@@ -55,3 +55,10 @@ ul.posts li {
     font-family: raleway-regular;
     list-style: none;
 }
+li li {
+    font-family: raleway-regular;
+}
+td td {
+    font-family: raleway-regular;
+    list-style: none;
+}

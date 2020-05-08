@@ -46,10 +46,12 @@ footer {
 }
 
 ul.posts {
+    font-family: raleway-regular;
     margin: 20px auto 40px;
     font-size: 1.5em;
 }
 
 ul.posts li {
+    font-family: raleway-regular;
     list-style: none;
 }

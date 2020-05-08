@@ -44,21 +44,17 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
-
+table {
+      font-family: raleway-regular, helvetica, sans-serif;
+}
+list {
+      font-family: raleway-regular, helvetica, sans-serif;
+}
 ul.posts {
     font-family: raleway-regular;
     margin: 20px auto 40px;
     font-size: 1.5em;
 }
-
 ul.posts li {
     font-family: raleway-regular;
-    list-style: none;
-}
-li li {
-    font-family: raleway-regular;
-}
-td td {
-    font-family: raleway-regular;
-    list-style: none;
 }

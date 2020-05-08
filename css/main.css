@@ -8,15 +8,17 @@ body {
 @font-face { font-family: montserrat-semibold;
        src: url('../assets/Montserrat-SemiBold.ttf'); }
 h2 {
-	font-family: montserrat-semibold;
+	  font-family: montserrat-semibold;
 }
 
 nav ul, footer ul {
+	  font-family: montserrat-semibold;
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
 nav ul li, footer ul li {
+	  font-family: montserrat-semibold;
     display: inline;
     margin-right: 20px;
 }
@@ -30,7 +32,6 @@ a:hover {
 h1 {
 	  font-family: montserrat-semibold;
     font-size: 2em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
     font-family: raleway-regular;
@@ -39,6 +40,7 @@ p {
     color: #333;
 }
 footer {
+	  font-family: montserrat-semibold;
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }

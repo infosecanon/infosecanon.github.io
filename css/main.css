@@ -2,8 +2,16 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+
+@font-face { font-family: raleway-regular;
+			 src: url('../assets/Raleway-Regular.ttf'); }
+@font-face { font-family: montserrat-semibold;
+       src: url('../assets/Montserrat-SemiBold.ttf'); }
+h2 {
+	font-family: montserrat-semibold;
+}
+
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -14,16 +22,18 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #800080;
 }
 a:hover {
     text-decoration: underline;
 }
 h1 {
+	  font-family: montserrat-semibold;
     font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
+    font-family: raleway-regular;
     font-size: 1.2em;
     line-height: 1.4em;
     color: #333;

@@ -4,4 +4,4 @@ description: open research journal exploring network intrusion detection
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 url: "https://infosecanon.github.io"
-baseurl: /infosecanon
+baseurl: /

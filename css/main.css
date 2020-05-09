@@ -23,7 +23,9 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 a {
-    text-decoration: none;
+    font-family: raleway-regular;
+    font-size: 1.2em;
+    line-height: 1.4em;
     color: #800080;
 }
 a:hover {
@@ -49,6 +51,9 @@ table {
 }
 li {
       font-family: raleway-regular, helvetica, sans-serif;
+      font-size: 1.2em;
+      line-height: 1.4em;
+      color: #333;
 }
 ul.posts {
     font-family: raleway-regular;

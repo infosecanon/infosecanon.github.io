@@ -18,4 +18,4 @@ Visualizations for feature selection across the three datasets. Human- and auto-
 [NIDS-AML-Auto Visualizations](/assets/NIDS-AML-Auto-Visualizations.html)
 
 ## NIDS-AML-Human
-IP - [NIDS-AML-Human Visualizations]
+[NIDS-AML-Human Visualizations](/assets/NIDS-AML-Human-Visualizations.html)

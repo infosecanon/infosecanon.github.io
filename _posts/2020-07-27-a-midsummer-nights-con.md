@@ -8,4 +8,4 @@ Categorical [Survey on Degrees and Education in Cybersecurity](/assets/Survey-on
 
 Numerical [CTU-13 Visualizations](/assets/MNC-072720-Visualizations.html)
 
-Statistical Feature Selection [Boruta](/assets/Boruta-CTU-13-072620.html)
+Statistical Feature Selection [RFE](/assets/RFE-CTU-13-072620.html)

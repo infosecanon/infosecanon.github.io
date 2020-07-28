@@ -6,15 +6,15 @@ date: 2020-07-24
 
 We decided to add back the `Timestamp`, `Protocol`, and `Flow Bytes/s` / `Flow Packets/s` (without all the inf and NaNs). Thus, we had to reprocess the old flows into new queens.
 
-Complete! [Reprocessing CICIDS](/assets/CICIDS-reprocess-072020.html)
+Complete! [Reprocessing CICIDS](/assets/CICIDS-reprocess-072620.html)
 
-Complete! [Reprocessing NIDS-Auto](/assets/NIDS-Auto-reprocess-072020.html)
+Complete! [Reprocessing NIDS-Auto](/assets/NIDS-AML-Auto-reprocess-072620.html)
 
-Complete! [Reprocessing CTU-13](/assets/CTU-13-reprocess-072020.html)
+Complete! [Reprocessing CTU-13](/assets/CTU-13-reprocess-072620.html)
 
-IP [Reprocessing NIDS-Human](/assets/NIDS-Human-reprocess-072020.html)
+IP [Reprocessing NIDS-Human](/assets/NIDS-AML-Human-reprocess-072620.html)
 
-Note: Having issues removing NaNs with `.dropna()`, might be a string?
+
 
 
 [CTU-13 Boruta 072120](/assets/Boruta-CTU-13-072120.html)

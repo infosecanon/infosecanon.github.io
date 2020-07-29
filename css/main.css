@@ -29,7 +29,7 @@ a {
     color: #006fff;
 }
 a:hover {
-    color: #57A0FF
+    color: #57A0FF;
     text-decoration: underline;
 }
 h1 {
@@ -38,7 +38,11 @@ h1 {
     font-size: 2em;
 }
 h2 {
-    color: #FFF;
+    color: #e8e8e8;
+    font-family: montserrat-semibold;
+}
+h3 {
+    color: #e8e8e8;
     font-family: montserrat-semibold;
 }
 p {
@@ -88,15 +92,17 @@ li {
       font-family: raleway-regular, helvetica, sans-serif;
       font-size: 1.2em;
       line-height: 1.4em;
-      color: #333;
+      color: #a4a7b5;
 }
 ul.posts {
     font-family: raleway-regular;
     margin: 20px auto 40px;
     font-size: 1.5em;
+    color: #a4a7b5;
 }
 ul.posts li {
     font-family: raleway-regular;
+    color: #a4a7b5;
 }
 .highlight {
     background-color: #73716F;

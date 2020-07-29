@@ -1,0 +1,48 @@
+@font-face {
+    font-family: raleway-regular;
+    src: url('../assets/Raleway-Regular.ttf');
+}
+@font-face {
+    font-family: montserrat-semibold;
+    src: url('../assets/Montserrat-SemiBold.ttf');
+}
+body {
+    background-color: #242635;
+    margin: 60px auto;
+    width: 70%;
+}
+nav ul, footer ul {
+    font-family: montserrat-semibold;
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+    font-family: montserrat-semibold;
+    display: inline;
+    margin-right: 20px;
+}
+a {
+    font-family: raleway-regular;
+    font-size: 0.8em;
+    line-height: 0.9em;
+    color: #006fff;
+}
+a:hover {
+    color: #57A0FF;
+    text-decoration: underline;
+}
+
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+ float: left;
+ width: 33.33%;
+ padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+ content: "";
+ clear: both;
+ display: table;
+} 

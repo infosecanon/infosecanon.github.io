@@ -32,7 +32,25 @@ a:hover {
     color: #57A0FF;
     text-decoration: underline;
 }
-
+h1 {
+    color: #A252E3;
+    font-family: montserrat-semibold;
+    font-size: 2em;
+}
+h2 {
+    color: #e8e8e8;
+    font-family: montserrat-semibold;
+}
+h3 {
+    color: #e8e8e8;
+    font-family: montserrat-semibold;
+}
+p {
+    font-family: raleway-regular;
+    font-size: 1.2em;
+    line-height: 1.4em;
+    color: #a4a7b5;
+}
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
  float: left;
@@ -45,4 +63,4 @@ a:hover {
  content: "";
  clear: both;
  display: table;
-} 
+}

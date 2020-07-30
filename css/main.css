@@ -24,9 +24,9 @@ nav ul li, footer ul li {
 }
 a {
     font-family: raleway-regular;
-    font-size: 0.8em;
-    line-height: 0.9em;
-    color: #006fff;
+    font-size: 1em;
+    line-height: 1em;
+    color: #5952e3;
 }
 a:hover {
     color: #57A0FF;
@@ -38,11 +38,11 @@ h1 {
     font-size: 2em;
 }
 h2 {
-    color: #e8e8e8;
+    color: #c652e3;
     font-family: montserrat-semibold;
 }
 h3 {
-    color: #e8e8e8;
+    color: #c652e3;
     font-family: montserrat-semibold;
 }
 p {
@@ -90,8 +90,8 @@ table {
 }
 li {
       font-family: raleway-regular, helvetica, sans-serif;
-      font-size: 1.2em;
-      line-height: 1.4em;
+      font-size: 1em;
+      line-height: 1.2em;
       color: #a4a7b5;
 }
 ul.posts {
@@ -105,5 +105,22 @@ ul.posts li {
     color: #a4a7b5;
 }
 .highlight {
-    background-color: #73716F;
+    background-color: #d8d6f9;
 }
+
+<style>
+
+figure {
+  border: 1px #cccccc solid;
+  padding: 4px;
+  margin: auto;
+}
+
+figcaption {
+  background-color: #242635;
+  color: #a4a7b5;
+  font-style: italic;
+  padding: 4px;
+  text-align: center;
+}
+</style>

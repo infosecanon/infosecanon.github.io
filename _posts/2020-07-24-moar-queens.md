@@ -12,15 +12,18 @@ Complete! [Reprocessing NIDS-Auto](/assets/NIDS-AML-Auto-reprocess-072620.html)
 
 Complete! [Reprocessing CTU-13](/assets/CTU-13-reprocess-072620.html)
 
-IP [Reprocessing NIDS-Human](/assets/NIDS-AML-Human-reprocess-072620.html)
+Complete! [Reprocessing NIDS-Human](/assets/NIDS-AML-Human-reprocess-072620.html)
 
 
 
 
-[CTU-13 Boruta 072120](/assets/Boruta-CTU-13-072120.html)
+Complete! [Boruta CTU-13 072620](/assets/Boruta-CTU-13-072620.html)
 
-Features in the green area: ['Src Port', 'Dst Port', 'Protocol', 'Timestamp', 'Total Fwd Packet', 'Total Length of Fwd Packet', 'Total Length of Bwd Packet', 'Fwd Packet Length Max', 'Fwd Packet Length Min', 'Bwd Packet Length Min', 'Bwd Packet Length Mean', 'Bwd Packet Length Std', 'Flow Bytes/s', 'Flow IAT Mean', 'Flow IAT Min', 'Fwd IAT Std', 'Fwd IAT Min', 'Bwd IAT Mean', 'Bwd IAT Std', 'Bwd IAT Max', 'Bwd IAT Min', 'Fwd PSH Flags', 'Fwd Header Length', 'Bwd Header Length', 'Bwd Packets/s', 'Packet Length Min', 'FIN Flag Count', 'SYN Flag Count', 'ACK Flag Count', 'Down/Up Ratio', 'Bwd Segment Size Avg', 'Bwd Bulk Rate Avg', 'Subflow Fwd Bytes', 'Subflow Bwd Bytes', 'FWD Init Win Bytes', 'Fwd Act Data Pkts', 'Fwd Seg Size Min', 'Idle Std', 'Idle Max', 'Idle Min']
-features in the blue area: ['Flow Duration', 'Flow IAT Max', 'Fwd IAT Total', 'Fwd IAT Mean', 'Fwd IAT Max', 'Idle Mean'
+Complete! [Boruta CICIDS 072620](/assets/Boruta-CICIDS-072620.html)
+
+Complete! [Boruta NIDS AML Auto 072120](/assets/Boruta-NIDS-AML-Auto-072120.html)
+
+IP [Boruta NIDS AML Human 072920](/assets/Boruta-NIDS-AML-Human-072920.html)
 
 
 |   |    CTU-13      |    CICIDS2017    |    NIDS Auto    |    NIDS Human    |

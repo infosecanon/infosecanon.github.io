@@ -23,7 +23,7 @@ Complete! [Boruta CICIDS 072620](/assets/Boruta-CICIDS-072620.html)
 
 Complete! [Boruta NIDS AML Auto 072120](/assets/Boruta-NIDS-AML-Auto-072120.html)
 
-IP [Boruta NIDS AML Human 072920](/assets/Boruta-NIDS-AML-Human-072920.html)
+Complete! [Boruta NIDS AML Human 072920](/assets/Boruta-NIDS-AML-Human-072920.html)
 
 ## Visualizing Progress
 Putting what we have so far into Excel. Icons are set at 10% and 30% of the values

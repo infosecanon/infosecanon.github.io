@@ -26,9 +26,12 @@ Complete! [Boruta NIDS AML Auto 072120](/assets/Boruta-NIDS-AML-Auto-072120.html
 Complete! [Boruta NIDS AML Human 072920](/assets/Boruta-NIDS-AML-Human-072920.html)
 
 ## Visualizing Progress
-Putting what we have so far into Excel. Icons are set at 10% and 30% of the values
-in that column.
+I had graphed this in Excel, but we can do better:
 
-<img src="/assets/nids-aml-table-1.png" width="600">
-<img src="/assets/nids-aml-table-3.png" width="600">
-<img src="/assets/nids-aml-table-2.png" width="600">
+<img src="/assets/sns-boruta.png" width="800">
+
+<img src="/assets/sns-no-boruta.png" width="800">
+
+You can find the whole caboodle here:
+
+[Heatmap Notebook](/assets/Results-Heatmap.html)

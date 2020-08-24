@@ -35,3 +35,9 @@ I had graphed this in Excel, but we can do better:
 You can find the whole caboodle here:
 
 [Heatmap Notebook](/assets/Results-Heatmap.html)
+
+## Normalizing Across
+Using scikit learn's Normalize method with the `max`, `l1`, and `l2` modifiers
+and graphing the results.
+
+[Heatmap Notebook](/assets/Results-Heatmap-082420.html)

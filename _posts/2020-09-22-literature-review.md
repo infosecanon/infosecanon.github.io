@@ -51,7 +51,7 @@ Experimentally, this could be our set up:
 
 CICIDS2017, broken down, looks like this:
 
-<img src="/assets/cicids2017.png" width="600">
+<img src="/assets/cicids2017-grey.png" width="600">
 
 
 

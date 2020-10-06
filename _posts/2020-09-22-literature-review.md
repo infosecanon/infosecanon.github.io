@@ -49,6 +49,13 @@ Experimentally, this could be our set up:
 
 
 
+CICIDS2017, broken down, looks like this:
+
+<img src="/assets/cicids2017.png" width="600">
+
+
+
+
 # Methodology
 I needed to gather and evaluate related work for the paper, thus needing to
 search for a corpus. Searches using Google Scholar, IEEE Xplore, and ACM Digital
@@ -466,6 +473,80 @@ Published in:
 On IEEE Xplore I used "network intrusion machine learning" as my search term
 and went through the first 5 pages (1,621 results returned; went through the
   first 150).
+
+### A Review of Machine Learning Methodologies for Network Intrusion Detection
+
+  Authors: Phadke, et al
+  Published in: Proceedings of the Third International Conference on Computing Methodologies and Communication (ICCMC 2019)
+
+  - Discusses different ML approaches (SVM, 'algorithm proposed', k-means, ANN, NN)
+  - Only analysis is across accuracy, FPR, and dataset (includes KDD99 cup papers)
+  - Does not discuss data preprocessing
+
+### Network Intrusion Detection using Supervised Machine Learning Technique with Feature Selection
+
+    Authors: Taher, K., Jisan, B., Rahman, M.
+    Published in: 2019 International Conference on Robotics,Electrical and Signal Processing Techniques (ICREST)
+
+  a key paragraph:
+  >The major challenges in evaluating performance of network IDS is the
+  unavailability of a comprehensive network based data set [13]. Most of the
+  proposed anomaly based techniques found in the literature were evaluated
+  using KDD CUP 99 dataset [14]. In this paper we used SVM and ANN –two machine
+  learning techniques, on NSL- KDD [15] which is a popular benchmark dataset for
+  network intrusion.
+
+  - so they used SVM and ANN to analyze the NSL-KDD (25,191 labeled instances) dataset.
+  - Used Weka for analysis
+  - 35 features
+
+### MACHINE LEARNING BASED INTRUSION DETECTION SYSTEM
+
+    Authors: Anish, A., Sundarakantham, K.
+    Published in: Proceedings of the Third International Conference on Trends in Electronics and Informatics (ICOEI 2019)
+
+  - NSL-KDD and UNSW-NB15
+  - AdaBoost algorithms and Artificial Bee Colony compared against NB, SVM
+  - Dataset is processed in Weka using Randomize
+  - CfsSubsetEval used for feature reduction
+  - Accuracy and misclassification rate are metrics
+
+### Comparison Deep Learning Method to Traditional Methods Using for Network Intrusion Detection
+
+    Authors: Dong, B., Wang, X.
+    Published in: 2016 8th IEEE International Conference on Communication Software and Networks
+
+  - Uses KDD-99 dataset
+  - Synthetic Minority Over- Sampling Technique (SMOTE) to deal with unbalanced dataset
+  - Precision evaluated on SVM with and without SMOTE
+
+### USING INCREMENTAL LEARNING METHOD FOR ADAPTIVE NETWORK INTRUSION DETECTION
+
+    Authors: Yang, W., Yun, X., Zhang, L.
+    Published in: Proceedings of the Fourth International Conference on Machine Learning and Cybernetics, Guangzhou, 18-21 August 2005
+
+  - Uses KDD-99 dataset
+  - incremental efficient intrusion detection self-learning algorithm (IEIDSLA)
+  which improves on DT learners like ID3
+  - Metrics: detecting rate and detecting time
+
+### On the Feasibility of Deep Learning in Sensor Network Intrusion Detection
+
+    Authors: Otoum, S., Kantarci, B., Mouftah, H.
+    Published in: IEEE NETWORKING LETTERS, VOL. 1, NO. 2, JUNE 2019
+
+  - restricted Boltzmann machine-based clustered IDS (RBC-IDS) vs. adaptively
+  supervised and clustered hybrid IDS (ASCH-IDS)
+  - Metrics: accuracy, detection rate, FNR, ROC curves, F1 score curve
+
+### Performance Comparison of Intrusion Detection System Between Deep Belief Network (DBN) Algorithm and State Preserving Extreme Learning Machine (SPELM) Algorithm
+
+    Authors: Singh, K., Mathai, K.
+    Published in: ??? Copyright 2019 IEEE
+
+  - NSL-KDD Dataset
+  - State Preserving Extreme Learning Machine(SPELM) vs. Deep Belief Network (DBN)
+  - Accuracy, Precision, Recall, confusion matrix, execution time
 
 
 

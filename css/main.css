@@ -6,6 +6,18 @@
     font-family: montserrat-semibold;
     src: url('../assets/Montserrat-SemiBold.ttf');
 }
+
+
+
+blockquote {
+  color: #ffffff;
+
+  font-style: italic;
+  font-size: 0.9em;
+  line-height: 1.2em;
+
+}
+
 body {
     background-color: #242635;
     margin: 60px auto;
@@ -36,20 +48,55 @@ h1 {
     color: #A252E3;
     font-family: montserrat-semibold;
     font-size: 2em;
+    counter-reset: h2counter;
 }
 h2 {
     color: #c652e3;
     font-family: montserrat-semibold;
+    counter-reset: h3counter;
 }
 h3 {
     color: #c652e3;
     font-family: montserrat-semibold;
+    counter-reset: h4counter;
 }
+
+
+h4 { counter-reset: h5counter; }
+h5 { counter-reset: h6counter; }
+h6 {}
+
+h2:before {
+    counter-increment: h2counter;
+    content: counter(h2counter) ".\0000a0\0000a0";
+}
+
+h3:before {
+    counter-increment: h3counter;
+    content: counter(h2counter) "." counter(h3counter) ".\0000a0\0000a0";
+}
+
+h4:before {
+    counter-increment: h4counter;
+    content: counter(h2counter) "." counter(h3counter) "." counter(h4counter) ".\0000a0\0000a0";
+}
+
+h5:before {
+    counter-increment: h5counter;
+    content: counter(h2counter) "." counter(h3counter) "." counter(h4counter) "." counter(h5counter) ".\0000a0\0000a0";
+}
+
+h6:before {
+    counter-increment: h6counter;
+    content: counter(h2counter) "." counter(h3counter) "." counter(h4counter) "." counter(h5counter) "." counter(h6counter) ".\0000a0\0000a0";
+}
+
+
 p {
     font-family: raleway-regular;
     font-size: 1.2em;
     line-height: 1.4em;
-    color: #a4a7b5;
+    color: #dedede;
 }
 /* Tables and shizz
  */
@@ -92,7 +139,7 @@ li {
       font-family: raleway-regular, helvetica, sans-serif;
       font-size: 1em;
       line-height: 1.2em;
-      color: #a4a7b5;
+      color: #ffffff;
 }
 ul.posts {
     font-family: raleway-regular;

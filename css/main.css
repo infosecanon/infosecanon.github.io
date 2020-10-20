@@ -10,12 +10,17 @@
 
 
 blockquote {
-  color: #ffffff;
+  color: #4287f5;
 
   font-style: italic;
   font-size: 0.9em;
   line-height: 1.2em;
 
+}
+
+blockquote p {
+  font-style: italic;
+  color: #4287f5;
 }
 
 body {

@@ -7,6 +7,10 @@
     src: url('../assets/Montserrat-SemiBold.ttf');
 }
 
+@font-face {
+    font-family:'Open Sans', sans-serif;
+    src: url('href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+}
 
 
 blockquote {
@@ -25,6 +29,7 @@ blockquote p {
 
 body {
     background-color: #242635;
+    font-family:'Open Sans', sans-serif;
     margin: 60px auto;
     width: 70%;
 }
@@ -98,9 +103,8 @@ h6:before {
 
 
 p {
-    font-family: raleway-regular;
-    font-size: 1.2em;
-    line-height: 1.4em;
+    font-family:'Open Sans', sans-serif;
+    font-size: medium;
     color: #dedede;
 }
 /* Tables and shizz
@@ -115,6 +119,44 @@ th {
     vertical-align: bottom;
     padding: 8px;
 }
+
+
+div.title {
+    font-family:'Open Sans', sans-serif;
+    text-align: center;
+    height: 40px;
+    color: white;
+    }
+/* Styling for the footer */
+div.footer {
+    text-align: center;
+    }
+/* Styling for the overall table */
+table {
+  font-family:'Open Sans', sans-serif;
+  font-size: medium;
+    table-layout: fixed;
+    border-collapse: collapse;
+    width: 100%;
+    }
+/* Styling for the column headers (days of the week) */
+th {
+    padding: 0 0.5em;
+    text-align: center;
+    background-color:gray;
+    color:white;
+    }
+/* Styling for the individual cells (days) */
+td  {
+    font-size: small;
+    padding: 0.25em 0.25em;
+    width: 14%;
+
+    text-align: left;
+    vertical-align: top;
+    }
+
+
 table td {
     color: #7E8190;
     border: 1px solid #333543;
@@ -137,11 +179,9 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
-table {
-      font-family: raleway-regular, helvetica, sans-serif;
-}
+
 li {
-      font-family: raleway-regular, helvetica, sans-serif;
+      font-family:'Open Sans', sans-serif;
       font-size: 1em;
       line-height: 1.2em;
       color: #ffffff;
